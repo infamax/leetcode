@@ -1,4 +1,4 @@
-#Leetcode
+# Leetcode
 
 В данном репозитории я буду публиковать свои решения задач
 c популярного ресурса [leetcode](https://leetcode.com/).
